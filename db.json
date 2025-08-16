@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Ana",
+      "email": "ana@email.com",
+      "senha": "123456"
+    },
+    {
+      "nome": "Clara ",
+      "email": "clara@gmail.com",
+      "senha": "1234",
+      "id": 1755316425402
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caderno",
+      "preco": 12.5,
+      "codigoBarras": "ABC123"
+    },
+    {
+      "id": 2,
+      "nome": "Caneta",
+      "preco": 2.99,
+      "codigoBarras": "DEF456"
+    },
+    {
+      "nome": "Caixa De Lápis de Cor",
+      "preco": 5,
+      "codigoBarras": "Erthkba",
+      "id": 1755321932899
+    }
+  ]
+}
